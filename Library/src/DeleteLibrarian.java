@@ -107,7 +107,7 @@ public class DeleteLibrarian extends JFrame {
 					.addGap(43)
 					.addComponent(btnNewButton)
 					.addContainerGap(78, Short.MAX_VALUE))
-		);
+		); //EOF
 		contentPane.setLayout(gl_contentPane);
 	}
 }
