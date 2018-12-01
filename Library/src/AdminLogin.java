@@ -59,6 +59,8 @@ public class AdminLogin extends JFrame {
 		
 		textField = new JTextField();
 		textField.setColumns(10);
+		textField.setColumns(11);
+		textField.setColumns(12);
 		
 		JButton btnLogin = new JButton("Login");
 		btnLogin.addActionListener(new ActionListener() {
