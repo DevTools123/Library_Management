@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS `books` (
 --
 -- Dumping data for table `books`
 --
--- Information of books stored in the form of table
+
 INSERT INTO `books` (`id`, `callno`, `name`, `author`, `publisher`, `quantity`, `issued`, `added_date`) VALUES
 (1, 'A@4', 'C In Depth', 'Shrivastav', 'BPB', 2, 2, '2016-07-19 19:37:56'),
 (2, 'B@1', 'DBMS', 'Korth', 'Pearson', 3, 0, '2016-07-18 18:39:52'),

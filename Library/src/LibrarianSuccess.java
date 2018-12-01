@@ -53,7 +53,7 @@ public class LibrarianSuccess extends JFrame {
 			BooksForm.main(new String[]{});
 			frame.dispose();
 			}
-		}); //End of LibrarianSuccess()
+		});
 		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		
 		JButton btnViewBooks = new JButton("View Books");
