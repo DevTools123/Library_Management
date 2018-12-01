@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 
 --
 -- Table structure for table `librarian`
---
+-- Table to store the info of the 'librarian'
 
 CREATE TABLE IF NOT EXISTS `librarian` (
   `id` int(5) NOT NULL AUTO_INCREMENT,
