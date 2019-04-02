@@ -24,7 +24,7 @@ public class Library extends JFrame {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
-				try {
+				try { // try catch required here
 					frame= new Library();
 					frame.setVisible(true);
 				} catch (Exception e) {
